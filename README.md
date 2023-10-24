@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ömer Erdem BILGIN</h1>
 <h3 align="center">A passionate Jr.Full-Stack-Developer from Turkey.</h3>
+<p>I'm a Junior Full Stack Developer on a mission to turn lines of code into meaningful and user-friendly digital experiences. My coding journey is fueled by a mix of curiosity and a passion for problem-solving. I'm excited to keep learning, collaborate on cool projects, and bring a bit of creativity to the tech world.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdembilgn&label=Profile%20views&color=0e75b6&style=flat" alt="erdembilgn" /> </p>
